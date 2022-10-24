@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PaginaHTML</title>
+</head>
+<body>
+   <h1>Primeiros passos no HTML</h1>
+<hr> 
+
+<h2>Aprendizado de tags e atributos</h2>
+
+<p> h1, h2, h3 e assim sucessivamente até a 6, são tags pra títulos e subtítulos.</p>
+<p>Já a tag p é pra identificaçao de um paragráfo, linha, enfim...</p>
+<p>Se a gente usar a tag "mark" isso vai aparecer um marca texto onde você quis colocar, como no exemplo: <mark>IMPORTANTE</mark></p>
+<p>Já a "small" deixa um pequeno, subtitulo em algo que talvez já esteja menor por ser h2 ou números maiores. Exemplo: <small>IMPORTANTE</small></p>
+
+
+<h3>Customização de palavras</h3>
+<ul>
+    <li>Em itálico: <i>itálico</i></li>
+    <li>Em negrito: <strong>negrito</strong></li>
+</ul>
+
+<p>Customizei assim usando tabelas não ordenadas com a tag "ul" e a tag "li". Mas poderia ter usado "ol", assim
+por seguindo uma tabela numerada. Além de "i" para itálico e "strong" para negrito</p>
+
+<h4>Parte final</h4>
+<p> Finalizando essa primeira parte vou escolher um outro tamanho e estilo de fonte.</p>
+	
+	<font face="Times New Roman" size="2">
+			DIO.ME
+	</font> <br />
+	<font face="Verdana" size="4">
+        DIO.ME
+	</font><br />
+	<font face="Comic sans MS" size=" 6">
+        DIO.ME
+	</font><br />
+	<font face="WildWest" size="7">
+        DIO.ME
+	</font><br />
+	<font face="Bedrock" size="8">
+        DIO.ME
+	</font><br />
+	
+
+
+</body>
+</html>
